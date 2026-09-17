@@ -36,7 +36,7 @@ let negValue = -value
 // console.log(2+2);
 // console.log(2-2);
 // console.log(2*2);
-// console.log(2**3);
+// console.log(2**3);   2 to the power 3
 // console.log(2/3);
 // console.log(2%3);
 
@@ -65,7 +65,7 @@ let gameCounter = 100
 console.log(gameCounter);
 
 // link to study
-// https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
+ //https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
 
 
 
